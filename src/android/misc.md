@@ -3,9 +3,13 @@
 ## روت کردن و ریکاوری ها
 
 
-[KernelSU](https://kernelsu.org) ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/me.weishu.kernelsu))
+[KernelSU](https://kernelsu.org) 
 
-<!-- NoIcon -->[Magisk](https://github.com/topjohnwu/Magisk) ([F-Droid](https://f-droid.org/fa/packages/com.topjohnwu.magisk))
+[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/me.weishu.kernelsu)
+
+[Magisk](https://github.com/topjohnwu/Magisk) 
+
+[F-Droid](https://f-droid.org/fa/packages/com.topjohnwu.magisk)
 
 [OrangeFox Recovery](https://orangefox.download)
 

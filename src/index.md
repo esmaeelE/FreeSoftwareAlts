@@ -44,15 +44,3 @@
 [بیشتر بخوانید در وبسایت گنو...](https://www.gnu.org/philosophy/free-sw.fa.html)
 
 ---
-
-## مشارکت کنندگان
-
-<p><a href="https://github.com/nimafanniasl/FreeSoftwareAlts/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=nimafanniasl/FreeSoftwareAlts" alt="مشارکت کنندگان">
-</a></p>
-
-## تاریخچه ستاره‌ها
-
-<p><a href="https://star-history.com/#nimafanniasl/FreeSoftwareAlts&Date">
-<img src="https://api.star-history.com/svg?repos=nimafanniasl/FreeSoftwareAlts&type=Date" alt="Star History Chart">
-</a></p>
