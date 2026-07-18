@@ -1,0 +1,17 @@
+[book]
+title = "جایگزین های آزاد"
+authors = ["nimafanniasl"]
+language = "fa"
+src = "src"
+
+[build]
+build-dir = "book"
+
+[output.html]
+git-repository-url = "https://github.com/nimafanniasl/FreeSoftwareAlts/"
+edit-url-template = "https://github.com/nimafanniasl/FreeSoftwareAlts/edit/main/src/"
+additional-css = ["theme/custom.css"]
+additional-js = ["theme/custom.js"]
+
+[output.html.search]
+enable = true

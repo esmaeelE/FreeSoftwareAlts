@@ -1,15 +1,20 @@
-
 # بازی ها
 
 ### بورد
 
-<!-- NoIcon -->[Chess](https://github.com/jcarolus/android-chess) ([F-Droid](https://www.f-droid.org/app/jwtc.android.chess))
+<!-- NoIcon -->
+
+[Chess](https://github.com/jcarolus/android-chess) ([F-Droid](https://www.f-droid.org/app/jwtc.android.chess))
 
 <img data-src="https://f-droid.org/repo/com.chess.clock/en-US/icon_yG-JBN98fErc54yIUUAtB-6HAMXOVt7aueYykNgVMyA=.png" class="lazy app-icon" width="30px">[Chess Clock](https://github.com/ChessCom/android-chessclock) ([F-Droid](https://www.f-droid.org/app/com.chess.clock))
 
-<!-- NoIcon -->[DroidFish](https://github.com/peterosterlund2/droidfish) ([F-Droid](https://f-droid.org/fa/packages/org.petero.droidfish))
+<!-- NoIcon -->
 
-<!-- NoIcon -->[Flang](https://codeberg.org/jannis/FlangAndroid) ([F-Droid](https://f-droid.org/fa/packages/de.tadris.flang))
+[DroidFish](https://github.com/peterosterlund2/droidfish) ([F-Droid](https://f-droid.org/fa/packages/org.petero.droidfish))
+
+<!-- NoIcon -->
+
+[Flang](https://codeberg.org/jannis/FlangAndroid) ([F-Droid](https://f-droid.org/fa/packages/de.tadris.flang))
 
 <img data-src="https://f-droid.org/repo/de.saschahlusiak.freebloks/en-US/icon_Fyu4CyiusRn4f55SpE0fmxvQmZVmgOwM8hrbOd7Miok=.png" class="lazy app-icon" width="30px">[Freebloks](https://github.com/shlusiak/Freebloks-Android) ([F-Droid](https://f-droid.org/fa/packages/de.saschahlusiak.freebloks))
 
@@ -41,11 +46,15 @@
 
 <img data-src="https://f-droid.org/repo/io.github.mwageringel.everest/en-US/icon_w-P6phXAa1qVvewbOfqwYZzwwHXIVpyUvxulff6jB_Y=.png" class="lazy app-icon" width="30px">[Everest](https://github.com/mwageringel/everest) ([F-Droid](https://www.f-droid.org/app/io.github.mwageringel.everest))
 
-<!-- NoIcon -->[GCompris](https://invent.kde.org/education/gcompris.git) ([F-Droid](https://f-droid.org/fa/packages/net.gcompris.full))
+<!-- NoIcon -->
+
+[GCompris](https://invent.kde.org/education/gcompris.git) ([F-Droid](https://f-droid.org/fa/packages/net.gcompris.full))
 
 <img data-src="https://f-droid.org/repo/com.vulnerabbity.geoperion/en-US/icon_ngOsSqRgcT_O7EixzvA2WXDnyoSABPpnz1rJ0jKXqYY=.png" class="lazy app-icon" width="30px">[Geoperion](https://github.com/vulnerabbity/Geoperion) ([F-Droid](https://www.f-droid.org/app/com.vulnerabbity.geoperion))
 
-<!-- NoIcon -->[Learning Memory](https://github.com/niccokunzmann/app.memory.quelltext.eu) ([F-Droid](https://f-droid.org/fa/packages/eu.quelltext.memory))
+<!-- NoIcon -->
+
+[Learning Memory](https://github.com/niccokunzmann/app.memory.quelltext.eu) ([F-Droid](https://f-droid.org/fa/packages/eu.quelltext.memory))
 
 <img data-src="https://f-droid.org/repo/io.github.subhamtyagi.quickcalculation/en-US/icon_rVSpewHlV00KGQ4Q1kvojzRtzsIyZHtUIDewFO5TqWA=.png" class="lazy app-icon" width="30px">[Quick Calculation](https://github.com/SubhamTyagi/quick-calculation) ([F-Droid](https://f-droid.org/fa/packages/io.github.subhamtyagi.quickcalculation))
 
@@ -56,11 +65,15 @@
 ### شبیه ساز
 
 
-<!-- NoIcon -->[Dolphin](https://github.com/dolphin-emu/dolphin) ([F-Droid](https://f-droid.org/fa/packages/org.dolphinemu.dolphinemu))
+<!-- NoIcon -->
+
+[Dolphin](https://github.com/dolphin-emu/dolphin) ([F-Droid](https://f-droid.org/fa/packages/org.dolphinemu.dolphinemu))
 
 <img data-src="https://f-droid.org/repo/ru.playsoftware.j2meloader/en-US/icon_VBtFNFUO_uu2EMB_OWeXxZz-2YLvrJy5ckTyDGS8FzA=.png" class="lazy app-icon" width="30px">[J2ME Loader](https://github.com/nikita36078/J2ME-Loader) ([F-Droid](https://f-droid.org/fa/packages/ru.playsoftware.j2meloader))
 
-<!-- NoIcon -->[Lemuroid](https://github.com/Swordfish90/Lemuroid) ([F-Droid](https://f-droid.org/fa/packages/com.swordfish.lemuroid))
+<!-- NoIcon -->
+
+[Lemuroid](https://github.com/Swordfish90/Lemuroid) ([F-Droid](https://f-droid.org/fa/packages/com.swordfish.lemuroid))
 
 <img data-src="https://f-droid.org/repo/com.retroarch/en-US/icon_6FEcvEOeZ43Tv-CdN2TYvlEpwwyQf2IgOBc5-kXbjzc=.png" class="lazy app-icon" width="30px">[RetroArch](https://github.com/libretro/RetroArch) ([F-Droid](https://www.f-droid.org/app/com.retroarch))
 
@@ -83,13 +96,19 @@
 
 <img data-src="https://f-droid.org/repo/org.sajeg.fallingblocks/en-US/icon_mrzO0eqK8wNo5D_jBeWYvIaII-QqYrxMH85L7j_OLhg=.png" class="lazy app-icon" width="30px">[Falling Blocks](https://github.com/Sajeg/falling-blocks) ([F-Droid](https://f-droid.org/fa/packages/org.sajeg.fallingblocks))
 
-<!-- NoIcon -->[Minetest](https://github.com/minetest/minetest) ([F-Droid](https://f-droid.org/fa/packages/net.minetest.minetest))
+<!-- NoIcon -->
 
-<!-- NoIcon -->[Open Golf](https://github.com/mgerdes/Open-Golf) ([F-Droid](https://f-droid.org/en/app/me.mgerdes.open_golf))
+[Minetest](https://github.com/minetest/minetest) ([F-Droid](https://f-droid.org/fa/packages/net.minetest.minetest))
+
+<!-- NoIcon -->
+
+[Open Golf](https://github.com/mgerdes/Open-Golf) ([F-Droid](https://f-droid.org/en/app/me.mgerdes.open_golf))
 
 <img data-src="https://f-droid.org/repo/xyz.deepdaikon.quinb/en-US/icon_PI7HCSDkOiTInZY8Q7nTJZvTvZU3tb5mrPdBtu4y3c4=.png" class="lazy app-icon" width="30px">[Quinb](https://gitlab.com/deepdaikon/Quinb) ([F-Droid](https://f-droid.org/fa/packages/xyz.deepdaikon.quinb))
 
-<!-- NoIcon -->[WordleSolver](https://github.com/billthefarmer/wordlesolver) ([F-Droid](https://f-droid.org/fa/packages/org.billthefarmer.solver))
+<!-- NoIcon -->
+
+[WordleSolver](https://github.com/billthefarmer/wordlesolver) ([F-Droid](https://f-droid.org/fa/packages/org.billthefarmer.solver))
 
 <img data-src="https://f-droid.org/repo/xyz.deepdaikon.xeonjia/en-US/icon_1bqqbKPRcCv_2pm6z8W2kKzjDnmSBDCiDNEY5krl_og=.png" class="lazy app-icon" width="30px">[Xeonjia](https://gitlab.com/deepdaikon/Xeonjia) ([F-Droid](https://f-droid.org/fa/packages/xyz.deepdaikon.xeonjia))
 
@@ -102,7 +121,9 @@
 
 <img data-src="https://f-droid.org/repo/eu.tilk.cdlcplayer/en-US/icon_q5TUxIviillJFqJpTTqqWl_BKO17YPuchRikF-CEw2A=.png" class="lazy app-icon" width="30px">[CDLC Player](https://github.com/tilk/cdlc_player) ([F-Droid](https://f-droid.org/fa/packages/eu.tilk.cdlcplayer))
 
-<!-- NoIcon -->[PianOli](https://github.com/nicolasbrailo/PianOli) ([F-Droid](https://f-droid.org/fa/packages/com.nicobrailo.pianoli))
+<!-- NoIcon -->
+
+[PianOli](https://github.com/nicolasbrailo/PianOli) ([F-Droid](https://f-droid.org/fa/packages/com.nicobrailo.pianoli))
 
 ### پازل
 
@@ -115,7 +136,9 @@
 
 <img data-src="https://f-droid.org/repo/org.moire.opensudoku/en-US/icon_bsqk6CwD3zJMF59UMK0v4STUwLUbabQG2iWXX2ZF6ds=.png" class="lazy app-icon" width="30px">[Open Sudoku](https://gitlab.com/opensudoku/opensudoku) ([F-Droid](https://f-droid.org/fa/packages/org.moire.opensudoku))
 
-<!-- NoIcon -->[Simon Tatham's Puzzles](https://github.com/chrisboyle/sgtpuzzles) ([F-Droid](https://www.f-droid.org/app/name.boyle.chris.sgtpuzzles))
+<!-- NoIcon -->
+
+[Simon Tatham's Puzzles](https://github.com/chrisboyle/sgtpuzzles) ([F-Droid](https://www.f-droid.org/app/name.boyle.chris.sgtpuzzles))
 
 <img data-src="https://f-droid.org/repo/org.benoitharrault.sudoku/en-US/icon_K8sJa5KQpfpQdgWyIgYM9INAUb5aWqFumXVzuu24Cck=.png" class="lazy app-icon" width="30px">[Simple Sudoku Game](https://git.harrault.fr/android/org.benoitharrault.sudoku) ([F-Droid](https://f-droid.org/fa/packages/org.benoitharrault.sudoku))
 
@@ -130,7 +153,9 @@
 
 <img data-src="https://f-droid.org/repo/com.agateau.tinywheels.android/en-US/icon_tXyk1Nmlkxw9IFl-ExHp98cG0O0IEGx6I9FA_LvVfRU=.png" class="lazy app-icon" width="30px">[Pixel Wheels](https://github.com/agateau/pixelwheels) ([F-Droid](https://f-droid.org/fa/packages/com.agateau.tinywheels.android))
 
-<!-- NoIcon -->[SuperTuxKart](https://github.com/supertuxkart/stk-code) ([F-Droid](https://f-droid.org/fa/packages/org.supertuxkart.stk))
+<!-- NoIcon -->
+
+[SuperTuxKart](https://github.com/supertuxkart/stk-code) ([F-Droid](https://f-droid.org/fa/packages/org.supertuxkart.stk))
 
 ### رترو
 
@@ -146,7 +171,9 @@
 
 <img data-src="https://f-droid.org/repo/org.revengate.revengate/en-US/icon_CruDJivFsI1rehfykeQz_f6xP4wjEgzaKW6uTaLxYB8=.png" class="lazy app-icon" width="30px">[Revengate](https://gitlab.com/ygingras/revengate) ([F-Droid](https://f-droid.org/fa/packages/org.revengate.revengate))
 
-<!-- NoIcon -->[Shattered Pixel Dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) ([F-Droid](https://f-droid.org/fa/packages/com.shatteredpixel.shatteredpixeldungeon))
+<!-- NoIcon -->
+
+[Shattered Pixel Dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) ([F-Droid](https://f-droid.org/fa/packages/com.shatteredpixel.shatteredpixeldungeon))
 
 <img data-src="https://f-droid.org/repo/com.unciv.app/en-US/icon_sZApOXTOdudh1zFJUN27SZ-DHeo2Pf1WHAKLDWBB4oA=.png" class="lazy app-icon" width="30px">[UnCiv](https://github.com/yairm210/UnCiv) ([F-Droid](https://f-droid.org/fa/packages/com.unciv.app))
 
@@ -157,6 +184,8 @@
 
 <img data-src="https://f-droid.org/repo/app.crossword.yourealwaysbe.forkyz/en-US/icon_9RC0QqpRkXPPUGy-rA-Mx9gDUvu7pF_qp44KtVq1lCw=.png" class="lazy app-icon" width="30px">[Forkyz](https://gitlab.com/Hague/forkyz) ([F-Droid](https://f-droid.org/fa/packages/app.crossword.yourealwaysbe.forkyz))
 
-<!-- NoIcon -->[Gurgle](https://github.com/billthefarmer/gurgle) ([F-Droid](https://f-droid.org/fa/packages/org.billthefarmer.gurgle))
+<!-- NoIcon -->
+
+[Gurgle](https://github.com/billthefarmer/gurgle) ([F-Droid](https://f-droid.org/fa/packages/org.billthefarmer.gurgle))
 
 <img data-src="https://f-droid.org/repo/com.serwylo.lexica/en-US/icon_AYsPz-inecG9YgrVDBzPD7A_6zgQDQtFLh6w2PRkHqg=.png" class="lazy app-icon" width="30px">[Lexica](https://github.com/lexica/lexica) ([F-Droid](https://f-droid.org/fa/packages/com.serwylo.lexica))

@@ -14,23 +14,20 @@ jobs:
           run: |
             git config user.name github-actions[bot]
             git config user.email 41898282+github-actions[bot]@users.noreply.github.com
-        - uses: actions/setup-python@v5
+
+        - name: Install mdBook
+          run: |
+            mkdir -p .bin
+            curl -sSL https://github.com/rust-lang/mdBook/releases/latest/download/mdbook-v0.4.44-x86_64-unknown-linux-gnu.tar.gz | tar -xz -C .bin
+            echo "$PWD/.bin" >> $GITHUB_PATH
+
+        - name: Build Book
+          run: |
+            mdbook build
+            cp CNAME book/CNAME
+
+        - name: Deploy to GitHub Pages
+          uses: peaceiris/actions-gh-pages@v4
           with:
-            python-version: 3.x
-        - run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV
-
-        - name: Install Dependencies
-          run: pip install -r Scripts/requirements.txt
-
-        - name: Run the Auto icon Script
-          run: python Scripts/auto_icons.py
-
-        - uses: actions/cache@v4
-          with:
-            key: mkdocs-material-${{ env.cache_id }}
-            path: .cache
-            restore-keys: |
-              mkdocs-material-
-        - run: pip install mkdocs-material
-
-        - run: mkdocs gh-deploy --force
+            github_token: ${{ secrets.GITHUB_TOKEN }}
+            publish_dir: ./book

@@ -27,8 +27,6 @@
 
 ------------------------
 
-## برنامه ها
-
 ### یوتیوب
 
 [Libre Tube](https://github.com/libre-tube/LibreTube)

@@ -1,0 +1,63 @@
+/* RTL support */
+html {
+    direction: rtl;
+}
+
+/* Vazirmatn font */
+@import url("https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@v33.003/Vazirmatn-font-face.css");
+
+body {
+    font-family: "Vazirmatn", sans-serif;
+}
+
+/* Text alignment for RTL */
+#content * {
+    unicode-bidi: plaintext;
+    text-align: start;
+}
+
+/* App icon styling */
+.app-icon {
+    border-radius: 25%;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+/* Section cards */
+.section-cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 1.2rem;
+    margin: 1.5rem 0;
+}
+
+.section-card {
+    display: block;
+    padding: 1.5rem;
+    border: 1px solid #e0e0e0;
+    border-radius: 10px;
+    text-decoration: none;
+    color: inherit;
+    transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+.section-card:hover {
+    border-color: #4a90d9;
+    box-shadow: 0 2px 12px rgba(74, 144, 217, 0.15);
+}
+
+.section-card-icon {
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+}
+
+.section-card-title {
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-bottom: 0.3rem;
+}
+
+.section-card-desc {
+    font-size: 0.9rem;
+    opacity: 0.7;
+}
