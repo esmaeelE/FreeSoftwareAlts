@@ -1,6 +1,10 @@
+<div align="center">
+  <img src="games-logo.svg" alt="Games" width="120">
+</div>
+
 # بازی ها
 
-### بورد
+### ♟️ بورد
 
 <!-- NoIcon -->
 
@@ -32,14 +36,14 @@
 
 <img data-src="https://f-droid.org/repo/icons/com.chessclock.android.31.png" class="lazy app-icon" width="30px">[Simple Chess Clock](https://github.com/simenheg/simple-chess-clock) ([F-Droid](https://www.f-droid.org/app/com.chessclock.android))
 
-### کارت
+### 🃏 کارت
 
 
 <img data-src="https://f-droid.org/repo/com.gelakinetic.mtgfam/en-US/icon_RKaftIMNwcEvgi1UOARnt4k7CE6YFcaowJk45sSLTIU=.png" class="lazy app-icon" width="30px">[MTG Familiar](https://github.com/AEFeinstein/mtg-familiar) ([F-Droid](https://f-droid.org/fa/packages/com.gelakinetic.mtgfam))
 
 <img data-src="https://f-droid.org/repo/ogz.tripeaks/en-US/icon_UQXW9VxHAzzKHdu3oTNYdIT1SzzITN_rXT4DHop40i0=.png" class="lazy app-icon" width="30px">[TriPeaks](https://github.com/mimoguz/tripeaks-gdx) ([F-Droid](https://f-droid.org/fa/packages/ogz.tripeaks))
 
-### آموزشی
+### 🧩 آموزشی
 
 
 <img data-src="https://f-droid.org/repo/eu.mokrzycki.learndigits/en-US/icon_biw8hVmFQe3UUm68Oc0FCc-eG8z3vHmTVfwpTtJCXZ0=.png" class="lazy app-icon" width="30px">[Digits](https://github.com/foxtrotdev/learn-digits) ([F-Droid](https://www.f-droid.org/app/eu.mokrzycki.learndigits))
@@ -62,7 +66,7 @@
 
 <img data-src="https://f-droid.org/repo/org.afrikalan.tuxmath/en-US/icon_KzNoMms-MxW9PwB2I6x_bbToE0dAuNDZEm5lfMug28g=.png" class="lazy app-icon" width="30px">[Tux Math](https://gitlab.com/Afrikalan/tuxmath-android) ([F-Droid](https://f-droid.org/fa/packages/org.afrikalan.tuxmath))
 
-### شبیه ساز
+### 🎮 شبیه ساز
 
 
 <!-- NoIcon -->
@@ -77,7 +81,7 @@
 
 <img data-src="https://f-droid.org/repo/com.retroarch/en-US/icon_6FEcvEOeZ43Tv-CdN2TYvlEpwwyQf2IgOBc5-kXbjzc=.png" class="lazy app-icon" width="30px">[RetroArch](https://github.com/libretro/RetroArch) ([F-Droid](https://www.f-droid.org/app/com.retroarch))
 
-### متفرقه
+### 🎲 متفرقه
 
 
 <img data-src="https://f-droid.org/repo/com.gitlab.ardash.appleflinger.android/en-US/icon_1qrade_iShH0gWVCU9azsheuC26ue63JCBObcYOGUn0=.png" class="lazy app-icon" width="30px">[Apple Flinger](https://gitlab.com/ar-/apple-flinger) ([F-Droid](https://f-droid.org/fa/packages/com.gitlab.ardash.appleflinger.android))
@@ -114,7 +118,7 @@
 
 <img data-src="https://f-droid.org/repo/xyz.deepdaikon.zoysii/en-US/icon_Q0smhUDLZZW0E-4TQqHLiGZnhH23LsXkX8OR859beQA=.png" class="lazy app-icon" width="30px">[Zoysii](https://gitlab.com/deepdaikon/Zoysii) ([F-Droid](https://f-droid.org/fa/packages/xyz.deepdaikon.zoysii))
 
-### پخش کننده موزیک
+### 🎵 پخش کننده موزیک
 
 
 <img data-src="https://f-droid.org/repo/com.serwylo.beatgame/en-US/icon_yrsvTFy3kGFW9kHX958rrVVioATpJL9j3ZhUGYL1YXs=.png" class="lazy app-icon" width="30px">[Beat Feet](https://github.com/beat-game/beat-game) ([F-Droid](https://f-droid.org/fa/packages/com.serwylo.beatgame))
@@ -125,7 +129,7 @@
 
 [PianOli](https://github.com/nicolasbrailo/PianOli) ([F-Droid](https://f-droid.org/fa/packages/com.nicobrailo.pianoli))
 
-### پازل
+### 🧩 پازل
 
 
 <img data-src="https://f-droid.org/repo/de.mwvb.blockpuzzle/en-US/icon_FBsl1goJhT_C09MURcrfsXkpu1gK8ik7MnS8rjhW1Hk=.png" class="lazy app-icon" width="30px">[Block Puzzle Stone Wars](https://github.com/SoltauFintel/blockpuzzle) ([F-Droid](https://f-droid.org/fa/packages/de.mwvb.blockpuzzle))
@@ -146,7 +150,7 @@
 
 <img data-src="https://f-droid.org/repo/com.thesuncat.sudoku/en-US/icon_NDIqmSEKYoQMrH3oJ5mscYPXPWsW1V4NOmP0jGPptsk=.png" class="lazy app-icon" width="30px">[Sudoku](https://github.com/TheSunCat/Sudoku) ([F-Droid](https://f-droid.org/fa/packages/com.thesuncat.sudoku))
 
-### مسابقه ای
+### 🏎️ مسابقه ای
 
 
 <img data-src="https://f-droid.org/repo/ardash.lato/en-US/icon_pR0LleNOQ_KHAYkIAibb9r5-VjAxWvQ83l9e0TTmoJQ=.png" class="lazy app-icon" width="30px">[Lato](https://gitlab.com/ar-/lato) ([F-Droid](https://f-droid.org/fa/packages/ardash.lato))
@@ -157,12 +161,12 @@
 
 [SuperTuxKart](https://github.com/supertuxkart/stk-code) ([F-Droid](https://f-droid.org/fa/packages/org.supertuxkart.stk))
 
-### رترو
+### 👾 رترو
 
 
 <img data-src="https://f-droid.org/repo/com.serwylo.retrowars/en-US/icon_Qg7W0cKliOAjfHCK8H-7eZz69LulJFZ117nZE2A4YmE=.png" class="lazy app-icon" width="30px">[Super Retro Mega Wars](https://github.com/retrowars/retrowars) ([F-Droid](https://f-droid.org/fa/packages/com.serwylo.retrowars))
 
-### استراتژی
+### ⚔️ استراتژی
 
 
 <img data-src="https://f-droid.org/repo/de.sesu8642.feudaltactics/en-US/icon_lvLEQQz2Fv_8DJTFLme44KFQFOxXq69dt7gUWvhdpbc=.png" class="lazy app-icon" width="30px">[Feudal Tactics](https://github.com/Sesu8642/FeudalTactics) ([F-Droid](https://f-droid.org/fa/packages/de.sesu8642.feudaltactics))
@@ -177,7 +181,7 @@
 
 <img data-src="https://f-droid.org/repo/com.unciv.app/en-US/icon_sZApOXTOdudh1zFJUN27SZ-DHeo2Pf1WHAKLDWBB4oA=.png" class="lazy app-icon" width="30px">[UnCiv](https://github.com/yairm210/UnCiv) ([F-Droid](https://f-droid.org/fa/packages/com.unciv.app))
 
-### کلمه
+### 🔤 کلمه
 
 
 <img data-src="https://f-droid.org/repo/icons/org.eehouse.android.xw4.199.png" class="lazy app-icon" width="30px">[CrossWords](http://xwords.sourceforge.net/source.php) ([F-Droid](https://www.f-droid.org/app/org.eehouse.android.xw4))

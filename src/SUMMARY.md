@@ -1,6 +1,6 @@
 - [خانه](./index.md)
 - [اندروید](./android/README.md)
-    - [برنامه ها](./android/apps.md)
-    - [بازی ها](./android/games.md)
+    - [برنامه](./android/apps.md)
+    - [بازی](./android/games.md)
     - [متفرقه](./android/misc.md)
 - [پیشانه‌ها](./front-ends.md)

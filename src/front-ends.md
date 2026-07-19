@@ -1,6 +1,10 @@
+<div align="center">
+  <img src="front-ends-logo.svg" alt="Front-ends" width="120">
+</div>
+
 # پیشانه‌ها
 
-## یوتیوب
+## ▶️ یوتیوب
 
 [پایپد](https://github.com/TeamPiped/Piped): پیشانه‌ای آزاد برای یوتیوب<br>
 
@@ -14,7 +18,7 @@
 
 [نمونه‌های اینویدوس](https://docs.invidious.io/instances)
 
-## توییتر
+## 🐦 توییتر
 
 
 [نیتر](https://nitter.net)
@@ -23,12 +27,12 @@
 
 [ماستودون](https://joinmastodon.org)
 
-## ردیت
+## 📱 ردیت
 
 
 [teddit](https://teddit.net)
 
-## گوگل پلی
+## 🏪 گوگل پلی
 
 فروشگاه کاره‌های اندرویدی F-droid
 
@@ -37,14 +41,14 @@
 
 [AuroraStore](https://auroraoss.com/)
 
-## واتساپ
+## 💬 واتساپ
 
 [Telegram](https://telegram.org)
 
 [Matrix](https://matrix.org)
 
 
-## خودکار سازی تغییر مسیر
+## 🔄 خودکار سازی تغییر مسیر
 
 با نصب افزونهٔ  **libreredirect** روی مرورگر فایرفاکس می‌توانید استفاده از راه‌حل‌های جایگزین و تغییر مسیر به پیشانه‌های آزاد را خودکار کنید.
 

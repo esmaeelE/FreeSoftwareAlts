@@ -1,6 +1,10 @@
+<div align="center">
+  <img src="apps-logo.svg" alt="Apps" width="120">
+</div>
+
 # برنامه ها
 
-## فروشگاه برنامه ها
+## 🏪 فروشگاه برنامه ها
 
 
 [F-Droid](https://f-droid.org)
@@ -27,14 +31,14 @@
 
 ------------------------
 
-### یوتیوب
+### ▶️ یوتیوب
 
 [Libre Tube](https://github.com/libre-tube/LibreTube)
 
 
 [New Pipe](https://github.com/TeamNewPipe/NewPipe)
 
-### تماس گیری
+### 📞 تماس گیری
 
 [Fossify Phone](https://f-droid.org/fa/packages/org.fossify.phone)
 
@@ -48,7 +52,7 @@
 [Koler](https://github.com/Chooloo/koler) ([F-Droid](https://f-droid.org/fa/packages/com.chooloo.www.koler))
 
 
-### نرم افزار SMS
+### 💬 نرم افزار SMS
 
 [Fossify SMS Messenger](https://github.com/FossifyOrg/Messages) ([F-Droid](https://f-droid.org/fa/packages/org.fossify.messages))
 
@@ -61,7 +65,7 @@
 [Quik](https://github.com/octoshrimpy/quik) ([F-Droid](https://f-droid.org/fa/packages/dev.octoshrimpy.quik))
 
 
-### مخاطبین
+### 👤 مخاطبین
 
 [Fossify Contacts](https://f-droid.org/fa/packages/org.fossify.contacts)
 
@@ -78,7 +82,7 @@
 [Simple Contacts Pro SE](https://github.com/stephanritscher/Simple-Contacts) ([F-Droid](https://www.f-droid.org/app/de.ritscher.simplemobiletools.contacts.pro))
 
 
-### ساعت
+### 🕐 ساعت
 
 [Fossify Clock](https://f-droid.org/fa/packages/org.fossify.clock)
 
@@ -94,14 +98,14 @@
 
 [Smart EggTimer](https://github.com/woheller69/eggtimer) ([F-Droid](https://f-droid.org/fa/packages/org.woheller69.eggtimer))
 
-### گالری
+### 🖼️ گالری
 
 [Fossify Gallery](https://f-droid.org/fa/packages/org.fossify.gallery)
 
 
 [Aves Libre](https://f-droid.org/fa/packages/deckers.thibault.aves.libre)
 
-### فایل منیجر
+### 📁 فایل منیجر
 
 [Fossify File Manager](https://f-droid.org/fa/packages/org.fossify.filemanager)
 
@@ -112,7 +116,7 @@
 [Secure File Manager Beta](https://f-droid.org/fa/packages/com.securefilemanager.app)
 
 
-### پخش کننده موزیک
+### 🎵 پخش کننده موزیک
 
 [Music Player GO](https://f-droid.org/packages/com.iven.musicplayergo)
 
@@ -194,7 +198,7 @@
 
 [Vinyl Music Player](https://github.com/AdrienPoupa/VinylMusicPlayer) ([F-Droid](https://f-droid.org/fa/packages/com.poupa.vinylmusicplayer))
 
-### لانچر
+### 🏠 لانچر
 
 [Lawnchair](https://lawnchair.app)
 
@@ -226,12 +230,12 @@
 
 [Rootless Pixel Launcher](https://github.com/amirzaidi/Launcher3) ([F-Droid](https://f-droid.org/fa/packages/amirz.rootless.nexuslauncher))
 
-### تقویم
+### 📅 تقویم
 
 [تقویم فارسی](https://f-droid.org/fa/packages/com.byagowi.persiancalendar)
 
 
-### ماشین حساب
+### 🔢 ماشین حساب
 
 [OpenCalc](https://github.com/Darkempire78/OpenCalc/releases)
 
@@ -246,7 +250,7 @@
 
 [yetCalc](https://github.com/Yet-Zio/yetCalc) ([F-Droid](https://f-droid.org/fa/packages/yetzio.yetcalc))
 
-### تحریم
+### 🔒 تحریم
 
 [InviZible Pro: increase your security, protect you](https://apt.izzysoft.de/fdroid/index/apk/pan.alexander.tordnscrypt)
 
@@ -278,19 +282,19 @@
 [UpVPN](https://github.com/upvpn/upvpn-app) ([F-Droid](https://f-droid.org/fa/packages/app.upvpn.upvpn))
 
 
-### دوربین
+### 📷 دوربین
 
 [Opencamera](https://f-droid.org/fa/packages/net.sourceforge.opencamera)
 
-### چک کردن ایمیل
+### 📧 چک کردن ایمیل
 
 [K-9 Mail](https://f-droid.org/fa/packages/com.fsck.k9)
 
-### کتابخوان
+### 📖 کتابخوان
 
 [Librera](http://librera.mobi)
 
-### واتساپ
+### 💬 واتساپ
 #### جایگزین ها:
 
 [Telegram-Foss](https://www.f-droid.org/fa/packages/org.telegram.messenger)
@@ -298,14 +302,14 @@
 
 [Element:Secure Messenger](https://www.f-droid.org/fa/packages/im.vector.app)
 
-### مدیر دانلود
+### ⬇️ مدیر دانلود
 
 [uget](https://ugetdm.com/downloads/android)
 
 
 [Download Navi](https://f-droid.org/fa/packages/com.tachibana.downloader)
 
-### مسدود کننده تبلیغات
+### 🚫 مسدود کننده تبلیغات
 
 
 [AdAway](https://github.com/AdAway/AdAway) ([F-Droid](https://f-droid.org/fa/packages/org.adaway))
@@ -318,7 +322,7 @@
 
 [TrackerControl](https://github.com/TrackerControl/tracker-control-android) ([F-Droid](https://f-droid.org/fa/packages/net.kollnig.missioncontrol.fdroid))
 
-### خودکار سازی
+### ⚙️ خودکار سازی
 
 
 [Automation](https://git.server47.de/jens/Automation) ([F-Droid](https://f-droid.org/fa/packages/com.jens.automation2))
@@ -329,7 +333,7 @@
 
 [Smart AutoClicker](https://github.com/Nain57/Smart-AutoClicker) ([F-Droid](https://f-droid.org/fa/packages/com.buzbuz.smartautoclicker))
 
-### اسکنر بارکد
+### 📱 اسکنر بارکد
 
 
 [Barcode Scanner](https://gitlab.com/Atharok/BarcodeScanner) ([F-Droid](https://f-droid.org/fa/packages/com.atharok.barcodescanner))
@@ -342,7 +346,7 @@
 
 [QR & Barcode Scanner](https://github.com/wewewe718/QrAndBarcodeScanner) ([F-Droid](https://f-droid.org/fa/packages/com.example.barcodescanner))
 
-### باتری
+### 🔋 باتری
 
 
 [ACCA](https://github.com/MatteCarra/AccA) ([F-Droid](https://f-droid.org/fa/packages/mattecarra.accapp))
@@ -355,7 +359,7 @@
 
 [SaverTuner](https://codeberg.org/s1m/savertuner) ([F-Droid](https://f-droid.org/fa/packages/s1m.savertuner))
 
-### مرورگر
+### 🌐 مرورگر
 
 
 [Cromite](https://github.com/uazo/cromite)
@@ -386,14 +390,14 @@
 
 [Tor Browser](https://gitlab.torproject.org/tpo/applications/tor-browser)
 
-### تقویم
+### 📅 تقویم
 
 
 [Etar](https://github.com/Etar-Group/Etar-Calendar) ([F-Droid](https://f-droid.org/fa/packages/ws.xsoh.etar))
 
 [Fossify Calendar](https://github.com/FossifyOrg/Calendar) ([F-Droid](https://f-droid.org/fa/packages/org.fossify.calendar))
 
-### مسدود کننده تماس و فیلتر هرزنامه
+### 🔕 مسدود کننده تماس و فیلتر هرزنامه
 
 
 [NoPhoneSpam](https://gitlab.com/bitfireAT/NoPhoneSpam) ([F-Droid](https://f-droid.org/fa/packages/at.bitfire.nophonespam))
@@ -402,7 +406,7 @@
 
 [Tranquille](https://github.com/Vinetos/Tranquille)
 
-### دوربین
+### 📷 دوربین
 
 
 [Cryptocam](https://gitlab.com/cryptocam/cryptocam) ([F-Droid](https://f-droid.org/fa/packages/com.tnibler.cryptocam))
@@ -417,7 +421,7 @@
 
 [Secure Camera](https://github.com/GrapheneOS/Camera)
 
-### کلاینت های ساخته شده توسط جامعه
+### 👥 کلاینت های ساخته شده توسط جامعه
 
 
 [Eternity](https://codeberg.org/Bazsalanszky/Eternity) ([F-Droid](https://f-droid.org/fa/packages/eu.toldi.infinityforlemmy))
@@ -458,7 +462,7 @@
 
 [Voyager](https://github.com/aeharding/voyager) ([F-Droid](https://f-droid.org/fa/packages/app.vger.voyager)
 
-### دیکشنری ها
+### 📕 دیکشنری ها
 
 
 [Aard 2](https://github.com/itkach/aard2-android) ([F-Droid](https://f-droid.org/fa/packages/itkach.aard2))
@@ -473,7 +477,7 @@
 
 [SilverDict](https://github.com/Crissium/SilverDict-mobile) ([F-Droid](https://f-droid.org/fa/packages/com.gmail.blandilyte.silverdict))
 
-### نمایشگر اسناد و PDF
+### 📄 نمایشگر اسناد و PDF
 
 
 [Book Reader](https://gitlab.com/axet/android-book-reader) ([F-Droid](https://f-droid.org/fa/packages/com.github.axet.bookreader))
@@ -488,14 +492,14 @@
 
 [Secure PDF Viewer](https://github.com/GrapheneOS/PdfViewer)
 
-### اسکنر اسناد
+### 📑 اسکنر اسناد
 
 
 [OpenNoteScanner](https://github.com/ctodobom/OpenNoteScanner) ([F-Droid](https://f-droid.org/fa/packages/com.todobom.opennotescanner))
 
 [OSS Document Scanner](https://github.com/Akylas/com.akylas.documentscanner) ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.akylas.documentscanner))
 
-### بارگیری کننده
+### ⬇️ بارگیری کننده
 
 
 [Aria2App](https://github.com/devgianlu/Aria2App) ([F-Droid](https://f-droid.org/fa/packages/com.gianlu.aria2app))
@@ -522,21 +526,21 @@
 
 [YTDLnis](https://github.com/deniscerri/ytdlnis) ([IzzyOnDroid](https://android.izzysoft.de/repo/apk/com.deniscerri.ytdl))
 
-### نقاشی
+### 🎨 نقاشی
 
 
 [FreePaint](https://github.com/pastthepixels/FreePaint) ([F-Droid](https://www.f-droid.org/app/io.github.pastthepixels.freepaint))
 
 [PxerStudio](https://github.com/BennyKok/PxerStudio) ([F-Droid](https://www.f-droid.org/app/com.benny.pxerstudio))
 
-### Alias ایمیل
+### 📧 Alias ایمیل
 
 
 [addy.io Android](https://gitlab.com/Stjin/anonaddy-android) ([F-Droid](https://www.f-droid.org/app/host.stjin.anonaddy))
 
 [SimpleLogin](https://github.com/simple-login/Simple-Login-Android) ([F-Droid](https://www.f-droid.org/app/io.simplelogin.android.fdroid))
 
-### کلاینت ای-میل
+### ✉️ کلاینت ای-میل
 
 
 [FairEmail](https://github.com/M66B/FairEmail) ([F-Droid](https://f-droid.org/fa/packages/eu.faircode.email))
@@ -549,12 +553,12 @@
 
 [Tutanota](https://github.com/tutao/tutanota) ([F-Droid](https://f-droid.org/fa/packages/de.tutao.tutanota))
 
-### شبیه ساز
+### 🎮 شبیه ساز
 
 
 [Limbo x86 PC Emulator](https://github.com/limboemu/limbo) ([F-Droid](https://f-droid.org/fa/packages/com.limbo.emu.main))
 
-### فایل منیجر
+### 📁 فایل منیجر
 
 
 [Amaze](https://github.com/TeamAmaze/AmazeFileManager) ([F-Droid](https://f-droid.org/fa/packages/com.amaze.filemanager))
@@ -569,7 +573,7 @@
 
 [Material Files](https://github.com/zhanghai/MaterialFiles) ([F-Droid](https://f-droid.org/fa/packages/me.zhanghai.android.files))
 
-### اشتراک گذاری فایل ها
+### 📤 اشتراک گذاری فایل ها
 
 
 [Cryptomator](https://github.com/cryptomator/android) ([F-Droid](https://f-droid.org/fa/packages/org.cryptomator.lite))
@@ -594,7 +598,7 @@
 
 [Warpinator](https://github.com/slowscript/warpinator-android) ([F-Droid](https://f-droid.org/fa/packages/slowscript.warpinator))
 
-### فایروال
+### 🛡️ فایروال
 
 
 [AFWall+](https://github.com/ukanth/afwall) ([F-Droid](https://f-droid.org/fa/packages/dev.ukanth.ufirewall))
@@ -605,7 +609,7 @@
 
 [Rethink DNS + Firewall](https://github.com/celzero/rethink-app) ([F-Droid](https://f-droid.org/fa/packages/com.celzero.bravedns))
 
-### فلش کارت
+### 🃏 فلش کارت
 
 
 [AnkiDroid](https://github.com/ankidroid/Anki-Android) ([F-Droid](https://f-droid.org/fa/packages/com.ichi2.anki))
@@ -618,14 +622,14 @@
 
 [ForgetMeNot](https://github.com/tema6120/ForgetMeNot) ([F-Droid](https://f-droid.org/fa/packages/com.odnovolov.forgetmenot))
 
-### چراق قوه
+### 🔦 چراق قوه
 
 
 [An Light | Flashlight](https://github.com/neophtex/An-Light-Flashlight) ([F-Droid](https://f-droid.org/fa/packages/com.series.anlight))
 
 [Flashy](https://github.com/Crazy-Marvin/Flashy) ([F-Droid](https://f-droid.org/fa/packages/rocks.poopjournal.flashy))
 
-### آیکون پک
+### 🎨 آیکون پک
 
 
 [Arcticons](https://arcticons.onnno.nl) ([F-Droid](https://f-droid.org/fa/packages/com.donnnno.arcticons))
@@ -634,7 +638,7 @@
 
 [Lawnicons](https://github.com/LawnchairLauncher/lawnicons)
 
-### دستکاری تصاویر
+### 🖌️ دستکاری تصاویر
 
 
 [Easy Watermark](https://github.com/rosuH/EasyWatermark) ([F-Droid](https://f-droid.org/fa/packages/me.rosuh.easywatermark))
@@ -653,7 +657,7 @@
 
 [SuperImage](https://github.com/Lucchetto/SuperImage) ([F-Droid](https://www.f-droid.org/app/com.zhenxiang.superimage))
 
-### گالری و نمایشگر تصویر
+### 🏞️ گالری و نمایشگر تصویر
 
 
 [Aves](https://github.com/deckerst/aves) ([F-Droid](https://f-droid.org/fa/packages/deckers.thibault.aves.libre))
@@ -666,7 +670,7 @@
 
 [Stingle Photos](https://github.com/stingle/stingle-photos-android) ([F-Droid](https://f-droid.org/fa/packages/org.stingle.photos))
 
-### صفحه کلید
+### ⌨️ صفحه کلید
 
 
 [8VIM](https://github.com/flide/8VIM) ([F-Droid](https://f-droid.org/fa/packages/inc.flide.vi8))
@@ -705,7 +709,7 @@
 
 [Unexpected Keyboard](https://github.com/Julow/Unexpected-Keyboard) ([F-Droid](https://f-droid.org/fa/packages/juloo.keyboard2))
 
-### نقشه
+### 🗺️ نقشه
 
 
 [Compass](https://github.com/Kr0oked/Compass) ([F-Droid](https://www.f-droid.org/app/com.bobek.compass))
@@ -728,7 +732,7 @@
 
 [Vespucci](https://github.com/MarcusWolschon/osmeditor4android) ([F-Droid](https://f-droid.org/fa/packages/de.blau.android))
 
-### فرانت-اند های مدیا
+### 📺 فرانت-اند های مدیا
 
 
 [Clipious](https://github.com/lamarios/clipious) ([F-Droid](https://f-droid.org/fa/packages/com.github.lamarios.clipious))
@@ -749,7 +753,7 @@
 
 [Xtra](https://github.com/crackededed/Xtra) ([F-Droid](https://www.f-droid.org/app/com.github.andreyasadchy.xtra))
 
-### پیام رسان
+### 💌 پیام رسان
 
 
 [blabber.im](https://codeberg.org/kriztan/blabber.im) ([F-Droid](https://f-droid.org/fa/packages/de.pixart.messenger))
@@ -806,7 +810,7 @@
 
 [Wire](https://github.com/wireapp/wire-android) ([F-Droid](https://f-droid.org/fa/packages/com.wire))
 
-### متفرقه
+### 🔧 متفرقه
 
 
 [AirGuard - AirTag tracking protection](https://github.com/seemoo-lab/AirGuard) ([F-Droid](https://f-droid.org/fa/packages/de.seemoo.at_tracking_detection))
@@ -857,7 +861,7 @@
 
 [xBrowserSync](https://github.com/xbrowsersync/app) ([F-Droid](https://f-droid.org/fa/packages/com.xBrowserSync.android))
 
-### یادداشت
+### 📝 یادداشت
 
 
 [Joplin](https://github.com/laurent22/joplin) ([F-Droid](https://f-droid.org/fa/packages/net.cozic.joplin))
@@ -894,7 +898,7 @@
 
 [Standard Notes](https://github.com/standardnotes/app) ([F-Droid](https://f-droid.org/fa/packages/com.standardnotes))
 
-### اداری
+### 📊 اداری
 
 
 [Collabora Office](https://www.collaboraoffice.com/solutions/collabora-office-android-ios)
@@ -903,7 +907,7 @@
 
 [OpenDocument](https://github.com/opendocument-app/OpenDocument.droid) ([F-Droid](https://f-droid.org/fa/packages/at.tomtasche.reader))
 
-### نقاشی
+### 🎨 نقاشی
 
 
 [Krita](https://invent.kde.org/graphics/krita) ([F-Droid](https://f-droid.org/fa/packages/org.krita))
@@ -912,7 +916,7 @@
 
 [Tux Paint](https://github.com/tux4kids/Tuxpaint-Android) ([F-Droid](https://www.f-droid.org/app/org.tuxpaint))
 
-### رمز عبور و احراز هویت
+### 🔑 رمز عبور و احراز هویت
 
 
 [Aegis](https://getaegis.app) ([F-Droid](https://f-droid.org/fa/packages/com.beemdevelopment.aegis))
@@ -935,7 +939,7 @@
 
 [Vault](https://github.com/arsvechkarev/Vault) ([F-Droid](https://f-droid.org/fa/packages/com.arsvechkarev.vault))
 
-### پادکست و پخش کننده کتاب صوتی
+### 🎧 پادکست و پخش کننده کتاب صوتی
 
 
 [AntennaPod](https://github.com/AntennaPod/AntennaPod) ([F-Droid](https://f-droid.org/fa/packages/de.danoeh.antennapod))
@@ -950,14 +954,14 @@
 
 [Voice](https://github.com/PaulWoitaschek/Voice) ([F-Droid](https://f-droid.org/fa/packages/de.ph1b.audiobook))
 
-### تحقیق و توسعه
+### 🔬 تحقیق و توسعه
 
 
 [Godot Editor](https://github.com/godotengine/godot) ([F-Droid](https://f-droid.org/fa/packages/org.godotengine.editor.v3))
 
 [PCAPdroid](https://github.com/emanuele-f/PCAPdroid) ([F-Droid](https://f-droid.org/fa/packages/com.emanuelef.remote_capture))
 
-### خواننده RSS
+### 📰 خواننده RSS
 
 
 [Aggregator](https://github.com/tughi/aggregator-android) ([F-Droid](https://f-droid.org/fa/packages/com.tughi.aggregator))
@@ -976,14 +980,14 @@
 
 [Thud](https://github.com/aerotoad/Thud) ([F-Droid](https://f-droid.org/fa/packages/com.aerotoad.thud))
 
-### سندباکس کردن
+### 📦 سندباکس کردن
 
 
 [Insular](https://gitlab.com/secure-system/Insular) ([F-Droid](https://f-droid.org/fa/packages/com.oasisfeng.island.fdroid))
 
 [Shelter](https://cgit.typeblog.net/Shelter) ([F-Droid](https://f-droid.org/fa/packages/net.typeblog.shelter))
 
-### علم و آموزش
+### 🧪 علم و آموزش
 
 
 [Atomic - Periodic Table](https://github.com/JLindemann42/Atomic-Periodic-Table.Android)
@@ -1006,7 +1010,7 @@
 
 [Wikipedia](https://github.com/wikimedia/apps-android-wikipedia) ([F-Droid](https://f-droid.org/fa/packages/org.wikipedia))
 
-### ورزش و سلامتی
+### 💪 ورزش و سلامتی
 
 
 [Feeel](https://gitlab.com/enjoyingfoss/feeel) ([F-Droid](https://f-droid.org/fa/packages/com.enjoyingfoss.feeel))
@@ -1031,7 +1035,7 @@
 
 [Red Moon](https://github.com/LibreShift/red-moon) ([F-Droid](https://f-droid.org/fa/packages/com.jmstudios.redmoon))
 
-### هماهنگ سازی
+### 🔄 هماهنگ سازی
 
 
 [DAVx⁵](https://www.davx5.com) ([F-Droid](https://f-droid.org/fa/packages/at.bitfire.davdroid))
@@ -1056,7 +1060,7 @@
 
 [Syncthing-Fork](https://github.com/Catfriend1/syncthing-android) ([F-Droid](https://f-droid.org/fa/packages/com.github.catfriend1.syncthingandroid))
 
-### سیستم
+### ⚙️ سیستم
 
 
 [AppManager](https://github.com/MuntashirAkon/AppManager) ([F-Droid](https://f-droid.org/fa/packages/io.github.muntashirakon.AppManager))
@@ -1101,7 +1105,7 @@
 
 [WifiAnalyzer](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer) ([F-Droid](https://f-droid.org/fa/packages/com.vrem.wifianalyzer))
 
-### ویرایشگرهای متن
+### ✏️ ویرایشگرهای متن
 
 
 [Acode](https://acode.foxdebug.com) ([F-Droid](https://f-droid.org/fa/packages/com.foxdebug.acode))
@@ -1114,14 +1118,14 @@
 
 [Squircle CE](https://github.com/massivemadness/Squircle-CE) ([F-Droid](https://f-droid.org/fa/packages/com.blacksquircle.ui))
 
-### متن-به-گفتار
+### 🔊 متن-به-گفتار
 
 
 [eSpeak](https://github.com/espeak-ng/espeak-ng) ([F-Droid](https://f-droid.org/fa/packages/com.reecedunn.espeak))
 
 [RHVoice](https://github.com/RHVoice/RHVoice) ([F-Droid](https://f-droid.org/fa/packages/com.github.olga_yakovleva.rhvoice.android))
 
-### تودو لیست
+### ✅ تودو لیست
 
 
 [1List](https://github.com/lolo-io/OneList) ([F-Droid](https://f-droid.org/fa/packages/com.lolo.io.onelist))
@@ -1138,7 +1142,7 @@
 
 [PocketPlan](https://github.com/RayLeaf-Studios/PocketPlan) ([F-Droid](https://f-droid.org/fa/packages/com.pocket_plan.j7_003))
 
-### ترجمه
+### 🌍 ترجمه
 
 
 [Arna Translate](https://github.com/MahanRahmati/translate)
@@ -1153,7 +1157,7 @@
 
 [Translate You](https://github.com/you-apps/TranslateYou) ([F-Droid](https://f-droid.org/fa/packages/com.bnyro.translate))
 
-### دستکاری URL
+### 🔗 دستکاری URL
 
 
 [Léon](https://github.com/svenjacobs/leon) ([F-Droid](https://www.f-droid.org/app/com.svenjacobs.app.leon))
@@ -1168,7 +1172,7 @@
 
 [URLCheck](https://github.com/TrianguloY/UrlChecker) ([F-Droid](https://www.f-droid.org/app/com.trianguloy.urlchecker))
 
-### ابزار ها
+### 🧰 ابزار ها
 
 
 [Amaze File Utilities](https://github.com/TeamAmaze/AmazeFileUtilities) ([F-Droid](https://www.f-droid.org/app/com.amaze.fileutilities))
@@ -1225,7 +1229,7 @@
 
 [Volta](https://github.com/x13a/Volta) ([F-Droid](https://www.f-droid.org/app/me.lucky.volta))
 
-### پخش کننده ویدیو
+### 🎬 پخش کننده ویدیو
 
 
 [Fermata Media Player](https://github.com/AndreyPavlenko/Fermata)
@@ -1242,7 +1246,7 @@
 
 [VLC](https://www.videolan.org/vlc/download-android.html) ([F-Droid](https://f-droid.org/fa/packages/org.videolan.vlc))
 
-### کاغذدیواری ها
+### 🖼️ کاغذدیواری ها
 
 
 [Dark Mode Live Wallpaper](https://github.com/cvzi/darkmodewallpaper) ([F-Droid](https://f-droid.org/fa/packages/com.github.cvzi.darkmodewallpaper))
@@ -1261,7 +1265,7 @@
 
 [Zade's Wallpaper](https://github.com/zadeviggers/wallpaper) ([F-Droid](https://www.f-droid.org/app/net.viggers.zade.wallpaper))
 
-### آب و هوا
+### 🌤️ آب و هوا
 
 
 [Breezy Weather](https://github.com/breezy-weather/breezy-weather) ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/org.breezyweather))
@@ -1278,7 +1282,7 @@
 
 ------------------------
 
-### گروه برنامه ها
+### 📂 گروه برنامه ها
 #### ابزار های ساده موبایل
 این گروه از ابزار ها شامل کیبورد، ماشین حساب، ضبط کننده صدا و... است.
 (به دلیل فروش به شرکت ZipoApps ممکن است بزودی دیگر پروژه ای آزاد نباشد، پیشنهاد نمیشود - نسخه موجود در f-droid همچنان آزاد است و آزاد خواهد ماند اما ممکن است دیگر بروزرسانی نشود.)

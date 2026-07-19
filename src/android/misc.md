@@ -1,6 +1,10 @@
+<div align="center">
+  <img src="misc-logo.svg" alt="Misc" width="120">
+</div>
+
 # متفرقه
 
-## روت کردن و ریکاوری ها
+## 🔓 روت کردن و ریکاوری ها
 
 
 [KernelSU](https://kernelsu.org) 
@@ -19,7 +23,7 @@
 
 [TWRP](https://twrp.me)
 
-## ابزار ها
+## 🧰 ابزار ها
 
 [APKLab](https://github.com/APKLab/APKLab)
 
